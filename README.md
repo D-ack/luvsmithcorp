@@ -1,2 +1,2 @@
 # luvsmithcorp
-an 
+an IT SERVICE COMPANY
