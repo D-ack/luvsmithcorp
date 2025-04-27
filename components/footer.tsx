@@ -17,7 +17,7 @@ export default function Footer() {
     window.location.href = `mailto:highvalueatluvsmithcorp@gmail.com?subject=New Subscription&body=New subscription from: ${email}`
 
     // Alternative: Open WhatsApp with pre-filled message
-    // window.open(`https://wa.me/0912303034?text=New subscription from: ${email}`, '_blank');
+    // window.open(`https://wa.me/2349123032034?text=New subscription from: ${email}`, '_blank');
   }
 
   return (
@@ -79,12 +79,12 @@ export default function Footer() {
               <li className="flex items-center">
                 <Phone className="h-5 w-5 text-gray-400 mr-2" />
                 <a
-                  href="https://wa.me/0912303034"
+                  href="https://wa.me/2349123032034"
                   className="text-gray-400 hover:text-blue-400 transition-colors"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  091-23-032-034 (Call or WhatsApp)
+                  +234-912-303-2034 (Call or WhatsApp)
                 </a>
               </li>
               <li className="flex items-center">

@@ -40,7 +40,7 @@ export default function Navbar() {
   }, [])
 
   const handleContactClick = () => {
-    window.open("https://wa.me/0912303034", "_blank")
+    window.open("https://wa.me/2349123032034", "_blank")
   }
 
   return (

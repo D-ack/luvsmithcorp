@@ -52,7 +52,7 @@ Message: ${formData.message}`,
       setIsSubmitted(true)
 
       // Open WhatsApp with the form details
-      window.open(`https://wa.me/0912303034?text=${whatsappMessage}`, "_blank")
+      window.open(`https://wa.me/2349123032034?text=${whatsappMessage}`, "_blank")
     }, 1000)
   }
 

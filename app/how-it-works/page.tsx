@@ -46,7 +46,7 @@ const steps = [
 
 export default function HowItWorksPage() {
   const handleContactClick = () => {
-    window.open("https://wa.me/0912303034", "_blank")
+    window.open("https://wa.me/2349123032034", "_blank")
   }
 
   return (

@@ -55,7 +55,7 @@ Subscribe to newsletter: ${formData.newsletter ? "Yes" : "No"}`,
       setIsSubmitted(true)
 
       // Open WhatsApp with the application details
-      window.open(`https://wa.me/0912303034?text=${whatsappMessage}`, "_blank")
+      window.open(`https://wa.me/2349123032034?text=${whatsappMessage}`, "_blank")
     }, 1000)
   }
 
